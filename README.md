@@ -7,4 +7,4 @@ sudo gem install cocoapods
 npm install  
 npx react-native run-ios  
 # 1st App(2rd)
-![](https://github.com/BUEC500C1/codvid-app-kentpei/tree/master/pictures/step2.png｜width=100)
+<img src="https://github.com/BUEC500C1/codvid-app-kentpei/tree/master/pictures/step2.png" width="50%" height="50%">
