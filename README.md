@@ -7,5 +7,4 @@ sudo gem install cocoapods
 npm install  
 npx react-native run-ios  
 # 1st App(2rd)
-//![image](  width="150" height="200")
-<img src="./pictures/step2.png" height="24" width="48">
+<img src="./pictures/step2.png" height="200" width="200">
