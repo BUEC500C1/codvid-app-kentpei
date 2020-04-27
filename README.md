@@ -22,8 +22,8 @@ npx react-native run-ios
 <img src="./pictures/step4.png" height="600" width="400">  
 
 # Overlap data with maps
-1.Based on step4 overlap the data on maps.  
-2.World data is separated with coutry's data, for world,it always appears in the bottom  
-but country's data shows when click the marker.
-3.Details see in code.  
+1.Based on step4 overlap the data on maps.      
+2.World data is separated with coutry's data, for world,it always appears in the bottom.     
+but country's data shows when click the marker.   
+3.Details see in code.     
 <img src="./pictures/step5.gif" height="600" width="400">  
